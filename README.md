@@ -3,6 +3,7 @@ The updated Solidity smart contract of Novoos
 
 # Description
 $NOVO Benefits of the NAC
+
 The below are some of the incentives of NAT.
 1. $NOVO Ameliorative Contract
 Hassle free upgrades and endless improvement without bother to investors.
