@@ -27,4 +27,4 @@ Investors are not affected in the slightest as the Novoos tokens do not change a
 0x1a51dCD32474Ca0B7D329Bf2521Fe3D3eF142e17
 
 # The NAC Information
-You can read and review details of the Novoos Ameliorative Contract here: [The NAC]([https://pages.github.com/](https://docs.novoos.net/usdnovo-ameliorative-contract/the-nac))
+You can read and review details of the Novoos Ameliorative Contract here: [The NAC](https://pages.github.com/](https://docs.novoos.net/usdnovo-ameliorative-contract/the-nac)
